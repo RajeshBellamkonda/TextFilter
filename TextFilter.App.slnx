@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="TextFilter.App/TextFilter.App.csproj" />
+  <Project Path="TextFilter.Core.Tests/TextFilter.Core.Tests.csproj" />
+  <Project Path="TextFilter.Core/TextFilter.Core.csproj" />
+</Solution>
